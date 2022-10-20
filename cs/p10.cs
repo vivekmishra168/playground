@@ -38,7 +38,7 @@ public class Program
 		Console.WriteLine(ff);
 		double dd = ff;
 		Console.WriteLine(dd);
-		decimal decimalPI = 3.141592653589793284m; 
+		decimal decimalPI = 3.141592653589793284m;
 		Console.WriteLine(decimalPI);	
 	}	
 }
